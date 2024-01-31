@@ -12,7 +12,7 @@ function Home() {
                             <button className="border rounded-lg text-white bg-yellow-400 px-4 py-3 flex-1 hover:bg-red-500 hover:text-black transition-colors">Ver Produtos</button>
                         </div>
                     </div>
-                    <div id="imagem" className="flex justify-center mt-8 md:mt-0">
+                    <div className="flex justify-center mt-8 md:mt-0">
                         <img className="w-full md:w-2/3" src="src/assets/home.svg" alt="Imagem da Página Home" />
                     </div>
                 </div>
